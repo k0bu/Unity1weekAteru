@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: a27de0b77588866438050f7891d5a9cc
+timeCreated: 1519574132
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Geotica 2012
+  fontNames:
+  - Geotica 2012
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\realj\.Rider2017.3\system\resharper-host\local\Transient\ReSharperHost\v11\SolutionCaches\_AteruGamePlzBuild.581508963.00" t="ExcludeRecursive" />
+    <e p="C:\Users\realj\Desktop\AteruGamePlzBuild" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor-firstpass.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Editor" t="Include">
+          <e p="NCMBMenu.cs" t="Include" />
+          <e p="UpdateXcodeProject.cs" t="Include" />
+        </e>
+        <e p="Materials" t="Include">
+          <e p="WallHologramShader.shader" t="Include" />
+        </e>
+        <e p="naichilab" t="Include">
+          <e p="unity-simple-ranking" t="Include">
+            <e p="Sample" t="Include">
+              <e p="SampleSceneManager.cs" t="Include" />
+            </e>
+            <e p="Scripts" t="Include">
+              <e p="IScore.cs" t="Include" />
+              <e p="NcmbYieldableExtensions.cs" t="Include" />
+              <e p="NumberScore.cs" t="Include" />
+              <e p="RankingLoader.cs" t="Include" />
+              <e p="RankingNode.cs" t="Include" />
+              <e p="RankingSceneManager.cs" t="Include" />
+              <e p="ScoreOrder.cs" t="Include" />
+              <e p="ScoreType.cs" t="Include" />
+              <e p="ScoreTypeSetting.cs" t="Include" />
+              <e p="TimeScore.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="NCMB" t="Include">
+          <e p="NCMBManager.cs" t="Include" />
+          <e p="NCMBSettings.cs" t="Include" />
+          <e p="Script" t="Include">
+            <e p="CommonConstant.cs" t="Include" />
+            <e p="ExtensionsClass.cs" t="Include" />
+            <e p="MimeTypeMap.cs" t="Include" />
+            <e p="MiniJSON.cs" t="Include" />
+            <e p="NamespaceDoc.cs" t="Include" />
+            <e p="NCMBACL.cs" t="Include" />
+            <e p="NCMBAddOperation.cs" t="Include" />
+            <e p="NCMBAddUniqueOperation.cs" t="Include" />
+            <e p="NCMBAnalytics.cs" t="Include" />
+            <e p="NCMBCallback.cs" t="Include" />
+            <e p="NCMBClassNameAttribute.cs" t="Include" />
+            <e p="NCMBConnection.cs" t="Include" />
+            <e p="NCMBDebug.cs" t="Include" />
+            <e p="NCMBDeleteOperation.cs" t="Include" />
+            <e p="NCMBException.cs" t="Include" />
+            <e p="NCMBFacebookParameters.cs" t="Include" />
+            <e p="NCMBFieldOperation.cs" t="Include" />
+            <e p="NCMBFile.cs" t="Include" />
+            <e p="NCMBGeoPoint.cs" t="Include" />
+            <e p="NCMBIncrementOperation.cs" t="Include" />
+            <e p="NCMBInstallation.cs" t="Include" />
+            <e p="NCMBObject.cs" t="Include" />
+            <e p="NCMBPush.cs" t="Include" />
+            <e p="NCMBQuery.cs" t="Include" />
+            <e p="NCMBRelation.cs" t="Include" />
+            <e p="NCMBRelationOperation.cs" t="Include" />
+            <e p="NCMBRemoveOperation.cs" t="Include" />
+            <e p="NCMBRole.cs" t="Include" />
+            <e p="NCMBScript.cs" t="Include" />
+            <e p="NCMBSetOperation.cs" t="Include" />
+            <e p="NCMBTwitterParameters.cs" t="Include" />
+            <e p="NCMBUser.cs" t="Include" />
+            <e p="NCMBUtility.cs" t="Include" />
+            <e p="SimpleJSON.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Plugins" t="Include">
+          <e p="Android" t="Include">
+            <e p="AndroidManifest.xml" t="Include" />
+            <e p="res" t="Include">
+              <e p="values" t="Include">
+                <e p="version.xml" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="Editor" t="Include">
+            <e p="JetBrains" t="Include">
+              <e p="Unity3DRider.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="FisherYatesShuffle.cs" t="Include" />
+          <e p="GameManager.cs" t="Include" />
+          <e p="Obstacle.cs" t="Include" />
+          <e p="PlayerMove.cs" t="Include" />
+          <e p="PointSource.cs" t="Include" />
+          <e p="TileMapGenerator.cs" t="Include" />
+        </e>
+      </e>
+      <e p="AteruGamePlzBuild.sln" t="IncludeFlat" />
+      <e p="Library" t="ExcludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Temp" t="ExcludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+      </e>
+    </e>
+  </component>
+</project>
