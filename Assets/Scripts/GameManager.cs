@@ -94,7 +94,7 @@ public class GameManager : MonoBehaviour {
 				resultScoreText.text = "Result Score\n" + score.ToString();
 				resultTimer += Time.deltaTime;
 				if (Input.anyKey && resultTimer > 2f) {
-					naichilab.RankingLoader.Instance.SendScoreAndShowRanking (score);
+					// naichilab.RankingLoader.Instance.SendScoreAndShowRanking (score);
 					resultBG.SetActive(false);
 					StartModeUI.SetActive(true);
 					PlayModeUI.SetActive(false);

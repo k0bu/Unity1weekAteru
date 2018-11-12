@@ -56,16 +56,16 @@
      <Compile Include="Assets\Editor\NCMBMenu.cs" />
      <Compile Include="Assets\Editor\UpdateXcodeProject.cs" />
  <Reference Include="UnityEditor.StandardEvents">
- <HintPath>C:/Users/realj/Desktop/よくわからん雑多2018/unity1weekAteruRider/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
+ <HintPath>C:/Users/realj/Desktop/documents2018/gitFiles/unity1weekAteruRider/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro.Editor">
- <HintPath>C:/Users/realj/Desktop/よくわからん雑多2018/unity1weekAteruRider/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+ <HintPath>C:/Users/realj/Desktop/documents2018/gitFiles/unity1weekAteruRider/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.PackageManagerUI.Editor">
- <HintPath>C:/Users/realj/Desktop/よくわからん雑多2018/unity1weekAteruRider/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+ <HintPath>C:/Users/realj/Desktop/documents2018/gitFiles/unity1weekAteruRider/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro">
- <HintPath>C:/Users/realj/Desktop/よくわからん雑多2018/unity1weekAteruRider/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+ <HintPath>C:/Users/realj/Desktop/documents2018/gitFiles/unity1weekAteruRider/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.AIModule">
  <HintPath>C:/Program Files/Unity/Hub/Editor/2018.2.6f1/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
